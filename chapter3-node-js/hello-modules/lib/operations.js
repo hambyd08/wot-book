@@ -3,6 +3,8 @@ exports.add = function(a, b) {  //#A
   return a + b;
 };
 
+//added ;
+
 exports.sub = function(a, b) {
   logOp(a, b, '-');
   return a - b;
