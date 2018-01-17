@@ -1,6 +1,6 @@
 {
   "pi": {
-    "name": "WoT Pi",
+    "name": "DWH_RPi",
     "description": "A simple WoT-connected Raspberry PI for the WoT book.",
     "port": 8484,
     "sensors": {
